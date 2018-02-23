@@ -1,0 +1,6 @@
+[package]
+name = "elephant-db"
+version = "0.1.0"
+authors = ["pingchuan.lin <pingchuan.lin@yiwill.com>"]
+
+[dependencies]
